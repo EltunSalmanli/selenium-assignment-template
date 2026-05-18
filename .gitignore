@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+
+# IDEs
+.idea/
+*.iml
+*.vscode/
+
+# Compiled class file
+*.class
+
+# Test reports
+test-output/
+
+# OS generated files
+.DS_Store
+Thumbs.db
